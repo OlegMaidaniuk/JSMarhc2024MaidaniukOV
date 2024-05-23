@@ -269,7 +269,7 @@ console.log(temerature11);
 //      Напишіть код який,буде присвоювати змінній х значення "default"  якщо ви намагаєтесь
 //      присвоїти в неї falsy-значення(хибноподібні, тобто ті, які приводиться до false,
 //      а це 0 null undefined і тд).
-let xxx=+'123';
+let xxx=+'asdc';
 if (!xxx){
     console.log("default");
 }
